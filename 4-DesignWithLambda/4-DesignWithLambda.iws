@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a11c098-f85e-478a-a86f-575beb060f2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/Asset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/AssetUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/CalculateNAV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/CalculateNAVTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/Camera2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/DefaultMethods/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/DefaultMethods/FastFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/DefaultMethods/Fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/DefaultMethods/Sail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/DefaultMethods/SeaPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/DefaultMethods/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/FluentMailer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/HandleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/MailBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/Mailer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/RefactoredAssetUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/YahooFinance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3-Compare/3-Compare.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../3-Compare/3-Compare.iws" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1eFo8T7SPN6kZos8xxgQieLYZh5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Chapter4" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Chapter4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HandleException">
+    <configuration name="Camera2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.Camera2" />
+      <module name="4-DesignWithLambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.DefaultMethods.Demo" />
+      <module name="4-DesignWithLambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter4.DefaultMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FluentMailer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.FluentMailer" />
+      <module name="4-DesignWithLambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.HandleException" />
+      <module name="4-DesignWithLambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.MailBuilder" />
+      <module name="4-DesignWithLambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HandleException" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.FluentMailer" />
+        <item itemvalue="Application.MailBuilder" />
+        <item itemvalue="Application.Camera2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a11c098-f85e-478a-a86f-575beb060f2f" name="Default Changelist" comment="" />
+      <created>1593926543151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593926543151</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1593959565249">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1593959565249" />
+    <state x="492" y="339" width="455" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593956193657">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="492" y="339" width="455" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1593956193657" />
+    <state width="1398" height="297" key="GridCell.Tab.0.bottom" timestamp="1593975352517">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="297" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593975352517" />
+    <state width="1398" height="297" key="GridCell.Tab.0.center" timestamp="1593975352515">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="297" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593975352515" />
+    <state width="1398" height="297" key="GridCell.Tab.0.left" timestamp="1593975352515">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="297" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593975352515" />
+    <state width="1398" height="297" key="GridCell.Tab.0.right" timestamp="1593975352516">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="297" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593975352516" />
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1593941543461">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1593941543461" />
+    <state x="432" y="353" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593930701733">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="432" y="353" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1593930701733" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1593941605012">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1593941605012" />
+  </component>
+</project>
