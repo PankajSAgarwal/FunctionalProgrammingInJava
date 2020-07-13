@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08a72c83-dbe0-4f3b-83f4-82c1c6bd3d4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../4-DesignWithLambda/src/Chapter4/Asset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-DesignWithLambda/src/Chapter4/AssetUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-DesignWithLambda/src/Chapter4/CalculateNAV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-DesignWithLambda/src/Chapter4/CalculateNAVTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-DesignWithLambda/src/Chapter4/Camera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-DesignWithLambda/src/Chapter4/Camera2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-DesignWithLambda/src/Chapter4/DefaultMethods/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-DesignWithLambda/src/Chapter4/DefaultMethods/FastFly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-DesignWithLambda/src/Chapter4/DefaultMethods/Fly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-DesignWithLambda/src/Chapter4/DefaultMethods/Sail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-DesignWithLambda/src/Chapter4/DefaultMethods/SeaPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-DesignWithLambda/src/Chapter4/DefaultMethods/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-DesignWithLambda/src/Chapter4/FluentMailer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-DesignWithLambda/src/Chapter4/HandleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-DesignWithLambda/src/Chapter4/MailBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-DesignWithLambda/src/Chapter4/Mailer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-DesignWithLambda/src/Chapter4/RefactoredAssetUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-DesignWithLambda/src/Chapter4/YahooFinance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/FileWriterARM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/FileWriterEAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/FileWriterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/FileWriterNoClose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/Locker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/Locking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/RodCutter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/RodCutterException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/RodCutterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/TestHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter5/UseInstance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3-Compare/3-Compare.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../3-Compare/3-Compare.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-WorkingWithResources.iws" beforeDir="false" afterPath="$PROJECT_DIR$/5-WorkingWithResources.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,22 +138,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1594563479096" />
-    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1594564718059">
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1594565298192">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594564718059" />
-    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1594564718057">
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594565298192" />
+    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1594565298191">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594564718057" />
-    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1594564718056">
+    <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594565298191" />
+    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1594565298190">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594564718056" />
-    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1594564718058">
+    <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594565298190" />
+    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1594565298192">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594564718058" />
+    <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594565298192" />
     <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1594557072371">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
