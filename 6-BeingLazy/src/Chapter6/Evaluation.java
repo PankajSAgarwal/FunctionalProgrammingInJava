@@ -38,6 +38,6 @@ public class Evaluation {
         System.out.println("//" + "START:LAZY_OUTPUT");
         lazyEvaluator(()->evaluate(1),()->evaluate(2));
         System.out.println("//" + "END:LAZY_OUTPUT");
-        
+
     }
 }

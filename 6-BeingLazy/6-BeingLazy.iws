@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49de2bf0-bed3-46bf-9e1a-ef5114e52256" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/Evaluation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter6/LazyStreams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/6-BeingLazy.iws" beforeDir="false" afterPath="$PROJECT_DIR$/6-BeingLazy.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter6/Evaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter6/Evaluation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
       <recent name="Chapter6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Evaluation">
+  <component name="RunManager" selected="Application.LazyStreams">
     <configuration name="Evaluation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter6.Evaluation" />
       <module name="6-BeingLazy" />
@@ -69,8 +70,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LazyStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.LazyStreams" />
+      <module name="6-BeingLazy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LazyStreams" />
         <item itemvalue="Application.Evaluation" />
         <item itemvalue="Application.HolderNaive" />
       </list>
@@ -94,22 +109,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="466" y="160" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1594620843702" />
-    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1594704951372">
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1594706429746">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594704951372" />
-    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1594704951371">
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594706429746" />
+    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1594706429744">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594704951371" />
-    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1594704951370">
+    <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594706429744" />
+    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1594706429743">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594704951370" />
-    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1594704951371">
+    <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594706429743" />
+    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1594706429745">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594704951371" />
+    <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594706429745" />
     <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1594704209192">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
