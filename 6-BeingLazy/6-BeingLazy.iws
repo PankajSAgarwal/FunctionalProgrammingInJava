@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49de2bf0-bed3-46bf-9e1a-ef5114e52256" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter6/LazyStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter6/NaivePrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter6/PrimeFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter6/Primes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/6-BeingLazy.iws" beforeDir="false" afterPath="$PROJECT_DIR$/6-BeingLazy.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter6/Evaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter6/Evaluation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter6/LazyStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter6/LazyStreams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +28,12 @@
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
+    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -43,7 +47,7 @@
       <recent name="Chapter6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LazyStreams">
+  <component name="RunManager" selected="Application.Primes">
     <configuration name="Evaluation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter6.Evaluation" />
       <module name="6-BeingLazy" />
@@ -83,8 +87,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Primes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6.Primes" />
+      <module name="6-BeingLazy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Primes" />
         <item itemvalue="Application.LazyStreams" />
         <item itemvalue="Application.Evaluation" />
         <item itemvalue="Application.HolderNaive" />
@@ -105,30 +123,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="117" key="#Scopes" timestamp="1594879303077">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="117" key="#Scopes/0.0.1440.900@0.0.1440.900" timestamp="1594879303077" />
     <state x="466" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1594620843702">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="466" y="160" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1594620843702" />
-    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1594706429746">
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1594712616363">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594706429746" />
-    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1594706429744">
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594712616363" />
+    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1594712616362">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594706429744" />
-    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1594706429743">
+    <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594712616362" />
+    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1594712616361">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594706429743" />
-    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1594706429745">
+    <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594712616361" />
+    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1594712616362">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594706429745" />
-    <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1594704209192">
+    <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594712616362" />
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1594878961765">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1594704209192" />
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1594878961765" />
     <state x="432" y="353" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1594619300095">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

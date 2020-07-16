@@ -31,7 +31,7 @@ public class LazyStreams {
         }
 
         System.out.println("//" + "END:CHAIN_OUTPUT");
-        
+
         System.out.println("//" + "START:SPLIT_OUTPUT");
         {
             Stream<String> namesWith3Letters =
